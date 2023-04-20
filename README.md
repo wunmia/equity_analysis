@@ -1,5 +1,5 @@
 # equity_analysis
-(WIP) This project seeks to analysis stocks through both financial statements and alsoo equity performance
+(WIP) This project seeks to analysis stocks through both financial statements and also equity performance
 
 The program first scrapes income statements, balance sheets and cash flow statements from the specified list of stock, from these it calculates some performance metrics e.g. asset turnover, quick ratio, earning per share, investment as % of profits
 The program then looks at the equity performance analysing returns, using technical indicators to recognise momentum and black scholes to understand how volatile the stock is
