@@ -25,7 +25,7 @@ fs_codes = {"pnl": "financials", "bs": "balance-sheet", "scf": "cash-flow"}
 periods = {"pnl": 5, "bs": 4, "scf": 5}
 first_metric = {"pnl": "Total Rev", "bs": "Total Ass", "scf": "Operating Cash"}
 
-stocklist = ["RR.L", "TSLA", "BMW.F", "FORD", "VOW.DE", "NSANY", "SZKMY", "GM", "HMC", "TM", "RACE", "0175.HK", "TTM","HOG","PAH3.DE"]
+stocklist =  ["RR.L", "TSLA", "BMW.F", "VOW.DE", "GM"] 
 
 
 #DECORATORS/wrappers
